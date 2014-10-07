@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Handlebars",
+		"HTML Underscore Syntax",
+		"Jade",
+		"JSHint Gutter",
+		"LESS",
+		"Liquid",
+		"Ruby Slim",
+		"SCSS",
+		"Stylus",
+		"SublimeLinter-jshint",
+		"Theme - Centurion",
+		"Tomorrow Color Schemes"
+	]
+}
