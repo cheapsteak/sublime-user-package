@@ -1,3 +1,4 @@
 *.cache
 *.last-run
 .DS_Store
+Package Control.system-ca-bundle
